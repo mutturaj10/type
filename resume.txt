@@ -1,0 +1,8 @@
+                   STUDENT RESUME:
+                   Name:Rajkumar
+                   Dob:29/05/2005
+                   email:rajk837795@gmail.com
+                   moblie no:7026575147
+                   Gender:male
+
+                   Qualitation:diploma in computer scincen engg
